@@ -1,0 +1,5 @@
+[
+  {"id":"alert-1","type":"pest","crop":"paddy","description":"Leaf folder damage seen on several plants near the canal side.","village":"Demo Village A","createdAt":"2026-07-10T08:30:00+05:30","confirmations":3,"simulated":true},
+  {"id":"alert-2","type":"disease","crop":"paddy","description":"Brown spots on leaves after humid days.","village":"Demo Village B","createdAt":"2026-07-11T09:10:00+05:30","confirmations":1,"simulated":true},
+  {"id":"alert-3","type":"flood","crop":"paddy","description":"Water level rising in the low field near the river bund.","village":"Demo Village B","createdAt":"2026-07-12T05:45:00+05:30","confirmations":5,"simulated":true}
+]

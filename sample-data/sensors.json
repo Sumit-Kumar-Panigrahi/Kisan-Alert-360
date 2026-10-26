@@ -1,0 +1,6 @@
+[
+  {"fieldId":"demo-field-1","village":"Demo Village A","timestamp":"2026-07-10T06:00:00+05:30","soilMoisturePct":42,"temperatureC":29.5,"rainfallMm":0,"simulated":true},
+  {"fieldId":"demo-field-1","village":"Demo Village A","timestamp":"2026-07-11T06:00:00+05:30","soilMoisturePct":35,"temperatureC":31.0,"rainfallMm":0,"simulated":true},
+  {"fieldId":"demo-field-2","village":"Demo Village B","timestamp":"2026-07-10T06:00:00+05:30","soilMoisturePct":68,"temperatureC":28.0,"rainfallMm":12,"simulated":true},
+  {"fieldId":"demo-field-2","village":"Demo Village B","timestamp":"2026-07-11T06:00:00+05:30","soilMoisturePct":74,"temperatureC":27.5,"rainfallMm":18,"simulated":true}
+]

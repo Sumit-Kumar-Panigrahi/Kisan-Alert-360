@@ -1,0 +1,11 @@
+[
+  {"id":"pm-kisan","name":"PM-KISAN",
+   "summary":{"en":"Income support for eligible farmer families, paid in instalments to the bank account.","hi":"पात्र किसान परिवारों के लिए आय सहायता, जो किस्तों में बैंक खाते में दी जाती है।","or":"ଯୋଗ୍ୟ କୃଷକ ପରିବାର ପାଇଁ ଆୟ ସହାୟତା, ଯାହା କିସ୍ତିରେ ବ୍ୟାଙ୍କ ଖାତାକୁ ଦିଆଯାଏ।"},
+   "officialUrl":"https://pmkisan.gov.in","simulated":true},
+  {"id":"pmfby","name":"PMFBY (crop insurance)",
+   "summary":{"en":"Crop insurance that helps cover losses from natural calamities, pests and diseases.","hi":"फसल बीमा जो प्राकृतिक आपदा, कीट और रोग से होने वाले नुकसान में सहायता करता है।","or":"ଫସଲ ବୀମା, ଯାହା ପ୍ରାକୃତିକ ବିପର୍ଯ୍ୟୟ, ପୋକ ଓ ରୋଗରୁ ହେଉଥିବା କ୍ଷତିରେ ସାହାଯ୍ୟ କରେ।"},
+   "officialUrl":"https://pmfby.gov.in","simulated":true},
+  {"id":"kcc","name":"Kisan Credit Card",
+   "summary":{"en":"Short-term farm credit through banks. Apply at your bank or the official portal.","hi":"बैंकों के माध्यम से अल्पकालिक कृषि ऋण। अपने बैंक या आधिकारिक पोर्टल पर आवेदन करें।","or":"ବ୍ୟାଙ୍କ ମାଧ୍ୟମରେ ଅଳ୍ପକାଳୀନ କୃଷି ଋଣ। ନିଜ ବ୍ୟାଙ୍କ କିମ୍ବା ସରକାରୀ ପୋର୍ଟାଲରେ ଆବେଦନ କରନ୍ତୁ।"},
+   "officialUrl":"https://www.pmkisan.gov.in","simulated":true}
+]
