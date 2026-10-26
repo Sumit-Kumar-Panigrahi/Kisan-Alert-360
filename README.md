@@ -47,8 +47,8 @@ Architecture and data flow: [`docs/TECHNICAL_DESIGN.md`](docs/TECHNICAL_DESIGN.m
 
 ### Install and run
 ```bash
-git clone <this-repository-url>
-cd <repository-folder>
+git clone https://github.com/Sumit-Kumar-Panigrahi/Kisan-Alert-360.git
+cd Kisan-Alert-360
 npm install
 cp .env.example .env      # then fill in your own keys
 npm run dev
